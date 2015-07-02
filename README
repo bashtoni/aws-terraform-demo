@@ -1,0 +1,7 @@
+# Terraform Demo
+
+Created for AWS User Group North Presentation.
+
+Creates a VPC, a security group and spins up a pre-baked instance which 
+runs Wordpress.
+
